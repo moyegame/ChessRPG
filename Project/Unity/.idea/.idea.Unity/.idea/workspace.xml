@@ -17,9 +17,8 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3be3d9b82c27410eb233ad293f1586e7159400/42/8f820cec/AsyncOperation.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/HFrameWork/Scripts/Manager/Core/Config.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/HFrameWork/Scripts/Manager/SceneManager.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/HFrameWork/Scripts/Manager/SoundManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/HFrameWork/Scripts/Module/HScene/HScene.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/HFrameWork/Scripts/Module/HScene/SceneName.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -79,6 +78,8 @@
       <updated>1688224192963</updated>
       <workItem from="1688224200886" duration="10841000" />
       <workItem from="1688261794450" duration="3154000" />
+      <workItem from="1688484876585" duration="7477000" />
+      <workItem from="1688571388742" duration="1752000" />
     </task>
     <servers />
   </component>

@@ -1,17 +1,15 @@
 using System;
-using Cysharp.Threading.Tasks;
+using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 
 public class Entry : MonoBehaviour
 {
-    public string FirstSceneName;
     private void Awake()
     {
-        GameManager.__Launch__();
-    }
-
-    private async UniTask Start()
-    {
-        GameManager.SceneMgr.LoadScene(FirstSceneName);
+        HScene.Load(SceneName.Scene_Init, (p) =>
+        {
+            Debug.Log("加载进度 : " + p);
+        });
     }
 }
